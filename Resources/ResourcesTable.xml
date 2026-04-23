@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Root CalibrationMirroringEnabled="False" CalibrationMirroringPath="&lt;Type Your Mirroring Path Here&gt;" Version="5.0.0.3">
+<Root CalibrationMirroringEnabled="False" CalibrationMirroringPath="&lt;Type Your Mirroring Path Here&gt;" Version="5.0.0.4">
   <Configuration>
     <Resource UUTResourceId="DevResource1" Class="Analog" Direction="Measure" Type="AllDaq" Calibration="None" IsAuxiliary="False">
       <ResourceParameter Name="RangeIndex" Value="0" />
